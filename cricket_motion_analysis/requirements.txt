@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+mediapipe
+opencv-python
+scikit-learn
+plotly
+seaborn
+mpl_toolkits
+kaleido
+fastdtw

@@ -1,0 +1,97 @@
+# macOS
+.DS_Store
+.AppleDouble
+Icon\r
+
+# Thumbnails
+Thumbs.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+pip-delete-this-directory.txt
+
+# Installer logs
+pip-log.txt
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Conda environment
+*.conda
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage.xml
+
+# Mypy
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebook outputs (optional — keep notebooks if you track them)
+# *.ipynb
+
+# Logs
+*.log
+logs/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# OS generated files
+Desktop.ini
+
+# Project-specific: large media, generated outputs and intermediate data
+outputs/
+cricket_motion_analysis/outputs/
+cricket_motion_analysis/data/raw_videos/
+cricket_motion_analysis/data/processed_videos/
+cricket_motion_analysis/data/raw_videos/*
+
+# Ignore large video/audio files (uncomment if you don't track any videos in repo)
+# *.mp4
+# *.mov
+# *.avi
+# *.mkv
+
+# Package metadata produced by setuptools
+*.egg
+
+# dotenv files
+.env
+.env.*
+
+# Misc
+*.pyc
+*.pyo
+~$*
